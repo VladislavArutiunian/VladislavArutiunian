@@ -1,5 +1,5 @@
 ### Hi there. My name's Vladislav, I'm backend PHP developer👋
-<p align="center">
+<p align="left">
     <b>My contacts:</b>
     <br>
     <a href="mailto:vladislav.arutiunian@gmail.com">
@@ -15,8 +15,8 @@
              alt="Whatsapp Badge">
     </a>
 </p>
-<p align="center">
-<div align="center">
+<p align="left">
+<div align="left">
     <b>Main tech stack</b>
     <br>
     <img alt="Static Badge"
@@ -30,8 +30,8 @@
          src="https://img.shields.io/badge/-bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </div>
 </p>
-<p align="center">
-<div align="center">
+<p align="left">
+<div align="left">
     <b>Databases</b>
     <br>
     <img alt="Static Badge"
@@ -42,8 +42,8 @@
          src="https://img.shields.io/badge/SQLite-%23003B57?style=for-the-badge&logo=sqlite&labelColor=dbd9d3">
 </div>
 </p>
-<p align="center">
-<div align="center">
+<p align="left">
+<div align="left">
     <b>Tools</b>
     <br>
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-311C87?style=for-the-badge&logo=github-actions&logoColor=white"/>
