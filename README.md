@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. My name's Vladislav, I'm backend PHP developer👋
 <p align="center">
     <b>My contacts:</b>
     <br>
@@ -17,7 +17,7 @@
 </p>
 <p align="center">
 <div align="center">
-    <b>Main stack</b>
+    <b>Main tech stack</b>
     <br>
     <img alt="Static Badge"
          src="https://img.shields.io/badge/PHP-%238993BE?style=for-the-badge&logo=php&logoColor=white">
